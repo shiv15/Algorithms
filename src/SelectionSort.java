@@ -25,8 +25,9 @@ public class SelectionSort {
         for(int i=0;i<n;i++) {
             numArray[i] = scan.nextInt();
         }
+        scan.close();
         s.sort(numArray);
-        System.out.println("Sorted array is : ");
+        System.out.println("Sorted array (Selection sort) is : ");
         for(int num: numArray) {
             System.out.print(num + "\t");
         }
