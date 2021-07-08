@@ -17,6 +17,5 @@ Distance Algorithms:
 - [x] Brute force closest pair
 
 Upcoming Algorithms:
-- [ ] Traveling Salesman problem
-- [ ] Knapsack problem
-- [ ] Assignment problem
+- [ ] Depth First Search
+- [ ] Breadth First Search
