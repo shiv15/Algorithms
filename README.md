@@ -1,11 +1,22 @@
 # Algorithms
 Data Structure and Algorithms
 
-Algorithms added: 
+Search Algorithms:
 - [x] Binary Search
-- [x] Brute force closest pair
-- [x] Brute force string matching
+- [x] Sequential Search
+
+Sorting Algorithms:
 - [x] Bubble sort
-- [x] Horspool
 - [x] Selection sort
-- [x] Sequectial Search
+
+String Algorithms:
+- [x] Brute force string matching
+- [x] Horspool Algorithm
+
+Distance Algorithms:
+- [x] Brute force closest pair
+
+Upcoming Algorithms:
+- [ ] Traveling Salesman problem
+- [ ] Knapsack problem
+- [ ] Assignment problem
