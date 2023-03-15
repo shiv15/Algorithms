@@ -17,5 +17,5 @@ Distance Algorithms:
 - [x] Brute force closest pair
 
 Upcoming Algorithms:
-- [ ] Depth First Search
+- [x] Depth First Search
 - [ ] Breadth First Search
